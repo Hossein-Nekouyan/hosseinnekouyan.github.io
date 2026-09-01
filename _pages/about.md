@@ -11,6 +11,7 @@ redirect_from:
 I am a first-year Ph.D. student in the **Operations Research Group at the University of Toronto MIE Department**, under the supervision of **Prof. Peyman Mohajerin Esfahani** and **Prof. Nasser Barjesteh**. Prior to joining the University of Toronto, I completed my M.Sc. in Computer Science at the University of Alberta, where I was supervised by [Dr. Xiaoqi Tan](https://xiaoqitan.org/) (see my thesis below). I also worked for one year as a **full-time Research Assistant** in the Department of Computing Science at the **University of Alberta**, working with [Dr. Xiaoqi Tan](https://xiaoqitan.org/) and [Dr. Bo Sun](https://sunbo-online.github.io/). I earned my **B.Sc. in Computer Science** from the **University of Tehran**.
 
 My research focuses on **online optimization** and **mechanism design**, with applications to resource allocation in online markets. My work has appeared in venues such as **WINE**, **ACM SIGMETRICS**, and **The Web Conference**.
+
 ---
 
 ### Research Interests:
